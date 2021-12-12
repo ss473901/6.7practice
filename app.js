@@ -24,3 +24,16 @@ while(true){
 
   } else break;
 }
+
+
+
+
+const Dollar = 108;
+const getDollarToYen = (number) => {
+  return number * Dollar;
+}
+
+while(true){
+  const money = prompt('ドルから円に換算します');
+  
+}
